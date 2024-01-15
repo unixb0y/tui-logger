@@ -21,6 +21,7 @@ tracing-subscriber = {version = "0.3", optional = true}
 lazy_static = "1.0"
 fxhash = "0.2"
 parking_lot = "0.12"
+ratatui="25.0"
 slog = { version = "2.7.0", optional = true }
 
 # Optional features for demo. Unfortunately cannot move to dev-dependencies
